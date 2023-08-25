@@ -1,0 +1,168 @@
+
+
+body {
+    background-image:url(/public/imgs/fondob.jpg);
+    width: 100%;
+    height:40px;
+    
+    
+}
+.row{
+  
+    width: 200vh;
+    margin: 0%;
+    border: 4px;
+    height: 1px;
+
+
+   
+}
+.col{
+    background-color: pink;
+    width: 40em;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+header{
+   font-size: 20px;
+   text-align: justify;
+   border-left: 30px;
+
+    
+}
+nav{
+    background-color: #7b1b6b;
+    color: antiquewhite;
+    width: 100%;
+}
+
+nav{
+    
+    text-align: center;
+    width:100%;
+    color:aquamarine;
+    font-size: 30px ;
+    background-color: #7b1b6b;
+    color: #8880b1;
+    
+}
+
+main{
+
+    width: 20em;
+    font-size: smaller;
+    padding: 2%;
+    margin: 1%;
+    height: 4%;
+    border-left: 40px;
+
+    
+}
+.titulo-destacado span{
+    color:chocolate
+
+}
+section h5{
+    font-size: 30px;
+    
+    
+}
+.card-header h5 {
+    font-size:30px ;
+    width: 10px;
+    background-color: #7b1b6b;
+     
+}
+h5{
+    font-size: 10px;
+    color: #18181b;
+    background-color: #de55c1;
+    font-family:cursive;
+    
+
+}
+section li{
+    font-size: 20px;
+    color:#000000;
+    align-items: center;
+}
+
+h3{
+    font-size: 3rem;
+}
+p{
+    font-size: 30px;
+    text-decoration: rgb(114, 114, 157);
+}
+strong{
+    font-size: 30px;
+    color: #000000;
+}
+
+.nosotros-iconos{
+    margin: 1em 0;
+    
+}
+.nosotros-iconos i{
+    margin-right: 0 8em;
+    padding: 2;
+    color: #323232;
+    box-shadow: 0 0 3px rgb(0, 0, 2);
+    
+}
+.nosotros-iconos li{
+    margin: 3;
+    font-size: 100px;
+    padding: 4;
+    
+    
+}
+.nosotros-iconos i:hover{
+    color:crimson;
+    transition: all 1s;
+    
+    
+}
+.nosotros-iconos i.fb{
+
+    color:rgb(10, 10, 11);
+    transition: all.6s;
+    
+}
+.nosotros-img{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+}
+
+.tarjetas img{
+    background-color: #323232;
+    width: 80px;
+    border: 20px;
+    
+}
+.carrito{
+    background-color: #7b74dc;
+    font-size: 15px;
+}
+.carrito li{
+    font-size: 10px;
+    color:#8880b1;
+
+}
+form{
+    font-family:'open sans'sans-serif;
+    font-size: 30px;
+    color: rgb(2, 8, 60);
+    width: 200%;
+    height: 220%;
+}
+button{
+    color: cornflowerblue;
+}
+footer img{
+    width: 100%;
+}
